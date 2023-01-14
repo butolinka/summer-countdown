@@ -1,5 +1,5 @@
 function summerIsComing(){
-    const June = new Date ('June 01, 2022 00:00');
+    const June = new Date ('June 01, 2023 00:00');
 
     const now = new Date ();
 
